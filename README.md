@@ -43,26 +43,19 @@ To conduct a **comprehensive performance analysis** of Blinkit’s:
 ### 🔍 Analysis Breakdown
 ---
 
-1️⃣ **Sales by Fat Content** :
-Compared Low Fat vs Regular products to understand revenue, ratings, and sales volume impact.
+1️⃣ **Sales by Fat Content:** Compared Low Fat vs Regular products to understand revenue, ratings, and sales volume impact.
 
-2️⃣ **Sales by Item Type** :
-Identified top- and low-performing product categories based on revenue and customer ratings.
+2️⃣ **Sales by Item Type:** Identified top- and low-performing product categories based on revenue and customer ratings.
 
-3️⃣ **Fat Content vs Outlet Sales**
-Analyzed outlet performance and customer preferences across fat categories.
+3️⃣ **Fat Content vs Outlet Sales:** Analyzed outlet performance and customer preferences across fat categories.
 
-4️⃣ **Sales by Outlet Establishment**
-Evaluated how outlet age/type affects revenue consistency and performance.
+4️⃣ **Sales by Outlet Establishment:** Evaluated how outlet age/type affects revenue consistency and performance.
 
-5️⃣ **Sales by Outlet Size**
-Assessed revenue contribution of Small, Medium, and Large outlets to identify the most profitable size.
+5️⃣ **Sales by Outlet Size:** Assessed revenue contribution of Small, Medium, and Large outlets to identify the most profitable size.
 
-6️⃣ **Sales by Outlet Location**
-Examined tier-wise geographic performance to highlight high- and low-demand regions.
+6️⃣ **Sales by Outlet Location:** Examined tier-wise geographic performance to highlight high- and low-demand regions.
 
-7️⃣ **Outlet Type Performance**
-Compared Total Sales, Average Sales, Items Sold, and Customer Ratings across outlet types.
+7️⃣ **Outlet Type Performance:** Compared Total Sales, Average Sales, Items Sold, and Customer Ratings across outlet types.
 
 ---
 
